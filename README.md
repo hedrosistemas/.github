@@ -1,2 +1,1 @@
-# .github
-Hedro Sistemas Inteligentes
+# Hedro Sistemas Inteligentes
