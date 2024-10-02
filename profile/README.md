@@ -8,4 +8,9 @@
     Hedro Smart Systems
 </h1>
 
+
 <p align="center">
+
+<strong align="center">
+    One sensor, countless possibilities!
+</strong>
